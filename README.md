@@ -2,7 +2,8 @@
     <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
  </div>
   <br>
-# RootNet: Accurate Root Detection in OPG Dental Images Using YOLOv5
+  
+## RootNet: Accurate Root Detection in OPG Dental Images Using YOLOv5
 
 RootNet is an innovative project that focuses on accurate root detection in Orthopantomogram (OPG) dental images utilizing the state-of-the-art YOLOv5 algorithm. This repository showcases the successful implementation of RootNet, which involves the engineering of a custom dataset and the fine-tuning of the YOLOv5 model to achieve precise root localization.
 
@@ -41,11 +42,11 @@ pip install -r requirements.txt  # install
 
 2. **Prerequisites**: Ensure you have the necessary dependencies installed. You might need Python, the YOLOv5 framework, and other packages mentioned in the repository's requirements.
 
-3. **Dataset**: If you wish to train the model with your own dataset, follow the guidelines in the `dataset/README.md` file for dataset preparation and annotations.
+3. **Dataset**: The model was trained on 1000 opg images from Tufts Dental dataset, the images were annotated. If you want the dataset feel free to contact me.
+4. 
+5. **Model Training**: Refer to `training/README.md` for instructions on how to train the RootNet model using the prepared dataset.
 
-4. **Model Training**: Refer to `training/README.md` for instructions on how to train the RootNet model using the prepared dataset.
-
-5. **Inference**: Once the model is trained, you can perform root detection and endodontic surgery need assessment on OPG images using the inference scripts provided in the `inference/` directory.
+6. **Inference**: Once the model is trained, you can perform root detection and endodontic surgery need assessment on OPG images using the inference scripts provided in the `inference/` directory.
 
 ## Contributing
 
