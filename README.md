@@ -8,6 +8,7 @@
 RootNet is an innovative project that focuses on accurate root detection in Orthopantomogram (OPG) dental images utilizing the state-of-the-art YOLOv5 algorithm. This repository showcases the successful implementation of RootNet, which involves the engineering of a custom dataset and the fine-tuning of the YOLOv5 model to achieve precise root localization.
 
 Additionally, RootNet goes beyond root detection. It plays a pivotal role in determining the need for endodontic surgery in private dental practice. By accurately identifying and localizing dental roots, RootNet aids in identifying complex cases where endodontic surgery might be necessary.
+Visit my article about this project on Medium:https://medium.com/@the.mohammad.tohidi/rootnet-advancing-endodontic-surgery-detection-with-ai-and-opg-image-analysis-c5f4cc4775d8
 
 ## Project Highlights
 
