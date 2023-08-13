@@ -1,14 +1,6 @@
-//<div align="center">
- // <p>
-   // <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
-    //  <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov5/v70/splash.png"></a>
-//  </p>
-//<br>
-
 <div>
     <a href="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml"><img src="https://github.com/ultralytics/yolov5/actions/workflows/ci-testing.yml/badge.svg" alt="YOLOv5 CI"></a>
  </div>
- //  </div>
   <br>
 # RootNet: Accurate Root Detection in OPG Dental Images Using YOLOv5
 
